@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/Users/darshanpatel/Desktop/ajava/Practical 3 JDBC/practical3.5/.metadata/.plugins/org.eclipse.jdt.core
